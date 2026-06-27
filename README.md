@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 I am Ahmed Nabil, an AI Developer and Data Scientist with a background in machine learning, deep learning, computer vision, and natural language processing.
 I have experience building and deploying models that solve practical problems, with a strong focus on data analysis, feature engineering, and transforming complex datasets into actionable insights.
 
+---
 
 ## Skills
 
@@ -34,6 +35,7 @@ TensorFlow, Scikit-learn, NLTK, spaCy, NumPy, Pandas, Matplotlib, Seaborn
 Data Skills : 
 Data Collection, Data Wrangling, Data Mining, Text Processing, Image Processing
 
+---
 
 ## How to reach me
 
