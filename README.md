@@ -23,15 +23,19 @@ I have experience building and deploying models that solve practical problems, w
 ## Skills
 
 Programming & Tools
+
 Python, SQL, Git, Power BI, Excel
 
 AI & Machine Learning
+
 Machine Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), Transfer Learning
 
 Libraries & Frameworks
+
 TensorFlow, Scikit-learn, NLTK, spaCy, NumPy, Pandas, Matplotlib, Seaborn
 
 Data Skills
+
 Data Collection, Data Wrangling, Data Mining, Text Processing, Image Processing
 
 
